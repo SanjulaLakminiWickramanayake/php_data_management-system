@@ -1,0 +1,10 @@
+/vendor/
+/config/local.php
+/config/mail.php
+/.env
+*.log
+.DS_Store
+
+# Local SMTP credentials (never commit)
+/config/mail.local.php
+config/config/mail.php

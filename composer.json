@@ -1,0 +1,15 @@
+{
+  "name": "portfolio/php-data-management",
+  "description": "A classic PHP and MySQL student data administration system.",
+  "type": "project",
+  "require": {
+    "php": "^8.0",
+    "dompdf/dompdf": "^3.0",
+    "phpoffice/phpspreadsheet": "^1.29",
+    "phpmailer/phpmailer": "^6.10"
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "sort-packages": true
+  }
+}

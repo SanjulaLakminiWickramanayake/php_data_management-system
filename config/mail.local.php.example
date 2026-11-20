@@ -1,0 +1,10 @@
+<?php
+declare(strict_types=1);
+
+/*
+ * Copy this file to config/mail.local.php and enter a NEW Gmail App Password.
+ * Do not share this file or commit it to Git.
+ */
+putenv('MAIL_USERNAME=nexorainstitute026@gmail.com');
+putenv('MAIL_PASSWORD=PASTE_NEW_16_CHARACTER_APP_PASSWORD_WITHOUT_SPACES');
+putenv('MAIL_FROM_ADDRESS=nexorainstitute026@gmail.com');
